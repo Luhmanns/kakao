@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kakao/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/kakao/static/js/main.20b7ace5.chunk.js",
-    "main.js.map": "/kakao/static/js/main.20b7ace5.chunk.js.map",
+    "main.js": "/kakao/static/js/main.9adf21a4.chunk.js",
+    "main.js.map": "/kakao/static/js/main.9adf21a4.chunk.js.map",
     "runtime-main.js": "/kakao/static/js/runtime-main.cfe69156.js",
     "runtime-main.js.map": "/kakao/static/js/runtime-main.cfe69156.js.map",
     "static/css/2.40cbe5c9.chunk.css": "/kakao/static/css/2.40cbe5c9.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.40cbe5c9.chunk.css",
     "static/js/2.814f784e.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.20b7ace5.chunk.js"
+    "static/js/main.9adf21a4.chunk.js"
   ]
 }
